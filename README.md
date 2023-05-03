@@ -4,10 +4,3 @@
 git config user.email "Andreybaioccomoc@gmail.com"
 
 Andrey Orechio - 3 Ano A
-
-
-
-
-
-
-Salomão Borges
